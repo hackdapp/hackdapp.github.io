@@ -79,7 +79,8 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+## theme: landscape
+theme: yilia
 exclude_generator:
 
 # Deployment
@@ -87,3 +88,4 @@ exclude_generator:
 deploy:
   type: github
   repo: https://github.com/rushking2014/rushking2014.github.io.git
+
