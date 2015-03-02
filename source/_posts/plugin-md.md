@@ -1,7 +1,12 @@
 layout: dev
-title: plugin.md
+title: 插件开发思路描述
 date: 2015-02-27 23:22:12
-tags: osgi plan plugin
+tags: 
+- osgi
+- plan
+- plugin
+- 随笔 
+categories: 工作计划
 ---
 
 # 插件列表清单及计划
