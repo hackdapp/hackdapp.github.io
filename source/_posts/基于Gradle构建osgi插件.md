@@ -10,7 +10,7 @@ categories: 原创
 - gradle
 - maven
 - eclipse
-
+<!-- more -->
 ## 构建工程
 - 新建工程
 - 编辑build.gradle

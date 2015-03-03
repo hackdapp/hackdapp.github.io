@@ -11,7 +11,8 @@ categories: 原创
 ### 环境搭建
 - eclipse  开发工具
 - Felix Framework `OSGI插件运行环境`
-*  下载felix  
+*  下载felix    
+<!-- more -->
 ``` 
 wget http://mirror.olnevhost.net/pub/apache//felix/org.apache.felix.main.distribution-4.6.0.tar.gz
 ```
@@ -26,7 +27,7 @@ java -jar bin/felix.jar
 ```
 **显示: "Welcome to Apache Felix Gogo" 表明安装成功.**  
 至此,环境搭建完毕.  
-
+<!-- more -->
 ### 开发步骤
 #### 1. 创建plugin project   
 ![image](http://7wy48o.com1.z0.glb.clouddn.com/plugin-create.png-blogpic)  
