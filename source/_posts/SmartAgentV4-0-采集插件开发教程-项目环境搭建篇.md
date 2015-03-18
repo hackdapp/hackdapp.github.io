@@ -33,7 +33,7 @@ tags:
 	
 			mkdir agent-plugin-sample-discover
 			cd agent-plugin-sample-discover
-			mkdir -p src/{main,test}/{java,resource}  <!--生成源文件目录-->
+			mkdir -p src/{main,test}/{java,resource}  <!-- 生成源文件目录 -->
 		
 2. 配置项目配置  
 创建好项目工程目录后，为工程添加gradle配置文件  
