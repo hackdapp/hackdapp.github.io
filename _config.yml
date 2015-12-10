@@ -6,13 +6,13 @@
 title: Reboot,2015
 subtitle: 
 description:
-author: Nolan Zhang
+author: HackHook
 language: zh-CN
 timezone: Asia/Chongqing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.hackhocok.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
