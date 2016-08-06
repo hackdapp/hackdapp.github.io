@@ -5,14 +5,14 @@
 # Site
 title: 目标, 计划, 行动. 
 subtitle: 
-description:
+description: 独立思考
 author: HackHook
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Chongqing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.hackhocok.xyz
+url: http://www.hackhook.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -71,3 +71,7 @@ deploy:
     type: git
     repo: https://github.com/thinklife/thinklife.github.io.git
     branch: master
+
+search:
+  path: search.xml
+  field: post
