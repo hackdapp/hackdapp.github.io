@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-yilia"]
+	path = themes/hexo-theme-yilia
+	url = git@github.com:litten/hexo-theme-yilia.git
