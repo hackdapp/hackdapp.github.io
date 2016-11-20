@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 目标, 计划, 行动. 
-subtitle: 
-description: 独立思考
+title: 独立思考, 践行主义
+subtitle: 七年就是一辈子
+description: 
 author: HackHook
-language: zh-Hans
+language: en
 timezone: Asia/Chongqing
 
 # URL
@@ -75,3 +75,5 @@ deploy:
 search:
   path: search.xml
   field: post
+  format: html
+  limit: 10000

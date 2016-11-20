@@ -1,0 +1,21 @@
+FATAL Port 4000 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object.exports._errnoException (util.js:849:11)
+    at exports._exceptionWithHostPort (util.js:872:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:441:9)
+    at process._tickCallback (node.js:347:17)
+FATAL listen EADDRINUSE 0.0.0.0:4000
+Error: listen EADDRINUSE 0.0.0.0:4000
+    at Object.exports._errnoException (util.js:849:11)
+    at exports._exceptionWithHostPort (util.js:872:20)
+    at Server._listen2 (net.js:1231:14)
+    at listen (net.js:1267:10)
+    at net.js:1376:9
+    at doNTCallback3 (node.js:441:9)
+    at process._tickCallback (node.js:347:17)
+INFO  Start processing
+INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
