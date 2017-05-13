@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 独立思考, 践行主义
+title: 浮生一日
 subtitle: 七年就是一辈子
 description: 
 author: HackHook
@@ -77,3 +77,11 @@ search:
   field: post
   format: html
   limit: 10000
+
+wechatpay: http://7wy48o.com1.z0.glb.clouddn.com/2016-11-20_qrcode_wechatpay.jpg
+
+# sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
