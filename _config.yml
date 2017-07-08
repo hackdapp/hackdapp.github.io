@@ -69,7 +69,7 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
     type: git
-    repo: https://github.com/thinklife/thinklife.github.io.git
+    repo: git@github.com:thinklife/thinklife.github.io.git
     branch: master
 
 search:
