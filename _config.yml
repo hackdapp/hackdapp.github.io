@@ -65,11 +65,12 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: next
 
+# repo: git@github.com:thinklife/thinklife.github.io.git
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
     type: git
-    repo: git@github.com:thinklife/thinklife.github.io.git
+    repo: https://github.com/thinklife/thinklife.github.io.git
     branch: master
 
 search:

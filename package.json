@@ -21,6 +21,8 @@
     "hexo-renderer-marked": "^0.2.4",
     "hexo-renderer-stylus": "^0.3.0",
     "hexo-server": "^0.1.2",
+    "hexo-tag-aplayer": "^2.0.3",
+    "hexo-tag-dplayer": "^0.2.0",
     "hexo-util": "^0.6.0",
     "hexo-wordcount": "^2.0.1",
     "nunjucks": "^3.0.1"
