@@ -1,14 +1,13 @@
 # Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
+## Docs: http://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HackDApp
-subtitle: 专注DApp教程 | 专注思维成长 | 专注应用技巧
-description: 专注DApp教程 | 专注思维成长 | 专注应用技巧
-keywords: DApp教程 EOS MAC推荐 效率工具
-author: zhangliang
-language: zh-CN
+title:  想不明白
+subtitle: 想不明白继续想，但一定要在想的路上
+description: 专注自我成长，落实知识积累，构建自己的斜杠性人生
+author: HackHook
+language: en
 timezone: Asia/Chongqing
 
 # URL
@@ -28,8 +27,6 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
-
-
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -45,16 +42,7 @@ highlight:
   line_number: true
   auto_detect: true
   tab_replace:
-  
-# Home page setting
-# path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  per_page: 7
-  order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -73,16 +61,17 @@ per_page: 7
 pagination_dir: page
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
 theme: maupassant
 
+# repo: git@github.com:thinklife/thinklife.github.io.git
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/hackdapp/hackdapp.github.io.git
-  branch: master
+    type: git
+    repo: https://github.com/thinklife/thinklife.github.io.git
+    branch: master
 
 search:
   path: search.xml
@@ -92,6 +81,7 @@ search:
 
 wechatpay: http://7wy48o.com1.z0.glb.clouddn.com/2016-11-20_qrcode_wechatpay.jpg
 
+# sitemap
 sitemap:
   path: sitemap.xml
 baidusitemap:
