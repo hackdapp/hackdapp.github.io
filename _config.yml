@@ -45,7 +45,7 @@ highlight:
   line_number: true
   auto_detect: true
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -54,7 +54,7 @@ index_generator:
   path: ''
   per_page: 7
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -81,7 +81,7 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hackdapp/hackdapp.github.io.git
+  repo: git@github.com:hackdapp/hackdapp.github.io.git
   branch: master
 
 search:
