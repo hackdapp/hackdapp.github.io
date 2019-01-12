@@ -13,10 +13,16 @@ timezone: Asia/Chongqing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://hackdapp.com
+url: https://www.hackdapp.com
 root: /
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
+# permalink: archives/:abbrlink.html
+permalink: archives/:url.html
 permalink_defaults:
+  url: index
+# abbrlink:
+#   alg: crc32  # 算法：crc16(default) and crc32
+#   rep: hex    # 进制：dec(default) and hex
 
 # Directory
 source_dir: source
@@ -92,6 +98,7 @@ search:
 
 wechatpay: http://7wy48o.com1.z0.glb.clouddn.com/2016-11-20_qrcode_wechatpay.jpg
 
+#hexo sitemap
 sitemap:
   path: sitemap.xml
 baidusitemap:
