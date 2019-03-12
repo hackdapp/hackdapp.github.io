@@ -1,3 +1,4 @@
 ---
 layout: timeline
+disallow: true
 ---

@@ -9,7 +9,11 @@ keywords:
 - hackdapp学习周报
 ---
 
-<!-- //[学习周报-01W: 快速配置EOS开发环境](http://localhost:4000/archives/weekly01/)
-[学习周报-02W: 精力管理与工作](http://localhost:4000/archives/weekly01/)
-[学习周报-03W: 为什么要早起](http://localhost:4000/archives/weekly01/)
-[学习周报-04W: workflowy推荐](http://localhost:4000/archives/weekly01/) -->
+- [学习周报-08W](/archives/weekly08.html)
+- [学习周报-07W](/archives/weekly07.html)
+- [学习周报-06W](/archives/weekly06.html)
+- [学习周报-05W](/archives/weekly05.html)
+- [学习周报-04W](/archives/weekly04.html)
+- [学习周报-03W](/archives/weekly03.html)
+- [学习周报-02W](/archives/weekly02.html)
+- [学习周报-01W](/archives/weekly01.html)
