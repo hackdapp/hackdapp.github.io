@@ -1,6 +1,9 @@
 ---
 layout: single-column
+title: 好物推荐
 disallow: true
+description:
+  - 好物推荐栏目，主要用于总结自己多年在用的的工具与内容收藏，并会根据自己的周报内容持续更新。HackDApp愿与你分享！
 ---
 
 #### 输入法

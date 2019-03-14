@@ -1,6 +1,9 @@
 ---
 layout: single-column
 disallow: true
+title: EOS完全开发手册
+description:
+  - 这是一本介绍如何在EOS上开发DAPP的完整且且持续更新的开发手册，通过详尽的代码示例帮你理解EOS的每一个知识点。HackDApp愿与你分享！
 ---
 
 # <<EOS完全开发指南_v1.0>>

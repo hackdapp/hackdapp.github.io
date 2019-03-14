@@ -1,7 +1,7 @@
 ---
 title: 使用EOS.js发布EOS智能合约
 categories: EOS完全开发指南
-url: eosdev_contract_deploy
+url: eosdev_deploycontract_eosjs
 tags:
   - EOS完全开发指南
   - deploy contract
@@ -10,6 +10,8 @@ keywords:
   - EOS完全开发指南
   - deploy contract
   - EOS合约开发教程
+description:
+  - 之前我们曾经介绍过如何使用EOS的系统命令(cleos set contract)发布智能合约，那么今天将分享另外一种方式：使用eosjs-sdk发布合约。在此基础上，可以通过配置package.json脚本以及IDE快捷链，可以快速提升DApp开发效率。HackDApp愿与你分享！
 abbrlink: 10133
 date: 2019-03-12 18:59:46
 ---
@@ -114,7 +116,7 @@ deployContract({ account: "eosio.token", contractDir: "./contract" }).then((resu
 > 在教程中如出现错误🐛或不易理解的知识点，欢迎加我微信指正!
 > Name: zhangliang | WeChat: rushking2009 | Mail: zhangliang@cldy.org
 
-![Show me your code.](http://cdn.hackdapp.com/2019-03-11-IMG_1625.JPG-weixin "加群了解")![](http://cdn.hackdapp.com/2019-03-11-IMG_1626.jpg-weixin)
+<img class="nofancybox" src="http://cdn.hackdapp.com/2019-03-11-IMG_1625.JPG-blog" style="display: inline;"><img class="nofancybox" src="http://cdn.hackdapp.com/2019-03-11-IMG_1626.jpg-blog" style="display: inline; ">
 
 注： 有想了解**愿码全思维IT工程师加速器**的朋友，可以扫码加群咨询。
 

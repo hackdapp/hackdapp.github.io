@@ -4,9 +4,9 @@
 
 # Site
 title: HackDApp
-subtitle: 专注DApp教程 | 专注思维成长 | 专注应用技巧
-description: 专注DApp教程 | 专注思维成长 | 专注应用技巧
-keywords: DApp教程 EOS MAC推荐 效率工具
+subtitle: 专注于DApp教程、思维成长、Mac技巧的IndieMaker
+description: 连接每一个程序员，通过Idea💡️ -> Build🛠️ -> Launch🚀️ -> Grow🌱 -> Monetize💰 ->Automate🤖️ -> Exit📁模式打造自己的SideProject。 > Show me your code. | HackDApp愿与你分享
+keywords: DApp教程 EOS Indie IndieMaker SideProject MAC推荐 效率工具 HackDApp愿与你分享
 author: zhangliang
 language: zh-CN
 timezone: Asia/Chongqing
@@ -97,6 +97,10 @@ search:
   limit: 10000
 
 wechatpay: http://7wy48o.com1.z0.glb.clouddn.com/2016-11-20_qrcode_wechatpay.jpg
+
+inline_images:
+  enabled: true
+  limit: 100000
 
 #hexo sitemap
 sitemap:
