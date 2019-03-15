@@ -1,6 +1,8 @@
 # Readme
 
-[www.hackdapp.com](www.hackdapp.com) 专注于DApp教程、 思维认知、 Mac应用技巧的IndieMaker。
+## MyBlog: [www.hackdapp.com](www.hackdapp.com) 
+
+----
 
 ## DApp教程
 
@@ -10,15 +12,19 @@
 4. [C++导读（EOS完全开发指南）](https://www.hackdapp.com/archives/eosdev_cplus_intro.html)
 5. [C++基础语法（EOS完全开发指南）](https://www.hackdapp.com/archives/eosdev_cplus_basic.html)
 
-
+----
 
 ## EOS完整开发手册
 
 [https://www.hackdapp.com/edusmart/](https://www.hackdapp.com/edusmart/)
 
+----
+
 ## 好物分享
 
 [好物推荐](https://www.hackdapp.com/things/)
+
+----
 
 ## 学习周报
 
