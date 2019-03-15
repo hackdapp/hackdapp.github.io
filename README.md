@@ -1,6 +1,6 @@
 # Readme
 
-## MyBlog: [www.hackdapp.com](www.hackdapp.com) 
+## MyBlog: [https://www.hackdapp.com](https://www.hackdapp.com) 
 
 ----
 
