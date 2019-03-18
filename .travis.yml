@@ -24,6 +24,6 @@ before_install:
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/travis
 - cp .travis/ssh_config ~/.ssh/config
-- git config --global user.name "HackHook"
+- git config --global user.name "www.hackdapp.com"
 - git config --global user.email "55269778@qq.com"
 = git submodule foreach git pull
