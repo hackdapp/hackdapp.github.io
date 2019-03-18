@@ -10,6 +10,7 @@ description:
 
 `Author: zhangliang | Wechat: rushking2009 | Mail: zhangliang@cldy.org`
 
+这是一本介绍如何在EOS上开发DAPP的完整且且持续更新的开发手册，通过详尽的代码示例帮你理解EOS的每一个知识点。HackDApp愿与你分享！
 ----
 
 ## [第一部分、C++导读](/archives/eosdev_cplus_intro.html)
