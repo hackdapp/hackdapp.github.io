@@ -8,16 +8,20 @@ description:
 
 name:      zhangliang
 wechat:    rushking2009
-公众号:     hackdapp
 github:    http://github.com/hackdapp
+公众号:     hackdapp
+![欢迎关注公众号](http://cdn.hackdapp.com/2019-04-03-qrcode_for_gh_16affcd16f4a_258.jpg)
 
 ---
 # Grownth Time Line
 
-## 尽期要做的事
+## 近期要做的事
 - 主题视频搬运
-- IndieMaker主题新闻翻译
-- 工具矩阵
+- 题新闻翻译
+- 打造工具矩阵
+
+
+## 相关资料收集
 
 - 2019-03-25
   - 极光单词
