@@ -13,7 +13,9 @@ description:
 与你分享与当周所收集的各种价值信息资源，当然不仅限于高质量知识、工具技巧，还包括书籍推荐📘️、技术教程、VLOG🎬️、⌨️DIY硬件。
 
 ---
-
+- [学习周报-16W: 解决焦虑的办法就是关注当下现实问题](/archives/weekly16.html)
+- [学习周报-15W: 生财有术为扩大眼界](/archives/weekly15.html)
+- [学习周报-14W: 找到自己合适的节奏感 ](/archives/weekly14.html)
 - [学习周报-13W: 制作自己的产品以及初阶运营](/archives/weekly13.html)
 - [学习周报-12W: 持续的精力投入并以文字记录成长](/archives/weekly12.html)
 - [学习周报-11W: OKR模板分享](/archives/weekly11.html)
