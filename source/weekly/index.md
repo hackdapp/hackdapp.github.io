@@ -1,6 +1,5 @@
 ---
 layout: single-column
-disallow: true
 title: 学习周报⏳
 keywords:
   - 学习周报
@@ -13,7 +12,13 @@ description:
 与你分享与当周所收集的各种价值信息资源，当然不仅限于高质量知识、工具技巧，还包括书籍推荐📘️、技术教程、VLOG🎬️、⌨️DIY硬件。
 
 ---
-- [学习周报-17W: 解决焦虑的办法就是关注当下现实问题](/archives/weekly16.html)
+
+- [学习周报-22W: 英语,以用为学](/archives/weekly22.html)
+- [学习周报-21W: 情绪是恶魔，学会如何控制](/archives/weekly21.html)
+- [学习周报-20W: 目标焦虑与建设性意见](/archives/weekly20.html)
+- [学习周报-19W: 如何打造个人知识系统--卡片写作](/archives/weekly19.html)
+- [学习周报-18W: 关注产品好处而非特点](/archives/weekly18.html)
+- [学习周报-17W: 静从常思己过，闲谈莫论人非](/archives/weekly17.html)
 - [学习周报-16W: 解决焦虑的办法就是关注当下现实问题](/archives/weekly16.html)
 - [学习周报-15W: 生财有术为扩大眼界](/archives/weekly15.html)
 - [学习周报-14W: 找到自己合适的节奏感 ](/archives/weekly14.html)
