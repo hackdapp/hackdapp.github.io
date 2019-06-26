@@ -14,6 +14,8 @@ description:
 
 ---
 
+- [学习周报-25W: 最小成本|最短路径-验证产品是否可行](/archives/weekly25.html)
+- [学习周报-24W: 做个卡片达人](/archives/weekly24.html)
 - [学习周报-23W: 朋友圈边界](/archives/weekly23.html)
 - [学习周报-22W: 英语,以用为学](/archives/weekly22.html)
 - [学习周报-21W: 情绪是恶魔，学会如何控制](/archives/weekly21.html)
