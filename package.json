@@ -5,6 +5,10 @@
   "hexo": {
     "version": "3.8.0"
   },
+  "scripts": {
+    "s": "hexo s -g",
+    "d": "hexo d -g"
+  },
   "dependencies": {
     "hexo": "^3.7.0",
     "hexo-abbrlink": "^2.0.5",
