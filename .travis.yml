@@ -10,12 +10,10 @@ cache:
 #  global:
 #  - GH_REF: github.com/thinklife/thinklife.github.io.git
 before_install:
-  - openssl aes-256-cbc -K $encrypted_230bb39e4a1b_key -iv $encrypted_230bb39e4a1b_iv
-    -in .travis/travis.enc -out ~/.ssh/travis -d
-  - chmod 600 ~/.ssh/travis
-  - eval $(ssh-agent)
-  - ssh-add ~/.ssh/travis
-  - cp .travis/ssh_config ~/.ssh/config
+  - openssl aes-256-cbc -K $encrypted_a0a084cfe161_key -iv $encrypted_a0a084cfe161_iv -in .travis/deploy_rsa.enc -out /tmp/deploy_rsa -d
+  - eval "$(ssh-agent -s)"
+  - chmod 600 /tmp/deploy_rsa
+  - ssh-add /tmp/deploy_rsa
   - git config --global user.name "hackdapp"
   - git config --global user.email "hackdapp@gmail.com"
   - git submodule init
