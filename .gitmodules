@@ -1,0 +1,3 @@
+[submodule "themes/maupassant"]
+	path = themes/maupassant
+	url = git@github.com:hackdapp/maupassant-hexo.git
