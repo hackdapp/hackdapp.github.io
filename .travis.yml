@@ -17,7 +17,8 @@ before_install:
   - cp .travis/ssh_config ~/.ssh/config
   - git config --global user.name "hackdapp"
   - git config --global user.email "hackdapp@gmail.com"
-  - git submodule foreach git pull
+  - git submodule init
+  - git submodule update
 
 install:
   - npm install
