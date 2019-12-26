@@ -2,28 +2,32 @@ language: node_js
 node_js: stable
 
 cache:
-    directories:
-        - node_modules
-install:
-- npm install
-script:
-- hexo cl
-- hexo g
-- hexo d
-after_script:
-branches:
-  only:
-  - source
+  directories:
+    - node_modules
+
 #env:
 #  global:
 #  - GH_REF: github.com/thinklife/thinklife.github.io.git
 before_install:
-- openssl aes-256-cbc -K $encrypted_230bb39e4a1b_key -iv $encrypted_230bb39e4a1b_iv
-  -in .travis/travis.enc -out ~/.ssh/travis -d
-- chmod 600 ~/.ssh/travis
-- eval $(ssh-agent)
-- ssh-add ~/.ssh/travis
-- cp .travis/ssh_config ~/.ssh/config
-- git config --global user.name "www.hackdapp.com"
-- git config --global user.email "55269778@qq.com"
-= git submodule foreach git pull
+  - openssl aes-256-cbc -K $encrypted_230bb39e4a1b_key -iv $encrypted_230bb39e4a1b_iv
+    -in .travis/travis.enc -out ~/.ssh/travis -d
+  - chmod 600 ~/.ssh/travis
+  - eval $(ssh-agent)
+  - ssh-add ~/.ssh/travis
+  - cp .travis/ssh_config ~/.ssh/config
+  - git config --global user.name "hackdapp"
+  - git config --global user.email "hackdapp@gmail.com"
+  - git submodule foreach git pull
+
+install:
+  - npm install
+
+script:
+  - hexo cl
+  - hexo g
+  - hexo d
+
+after_script:
+  branches:
+    only:
+      - source
