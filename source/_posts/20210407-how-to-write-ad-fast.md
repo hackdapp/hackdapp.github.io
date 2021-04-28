@@ -7,7 +7,7 @@ url: how_to_write_ad_fast
 tags:
 description:
   - 如何用最少的时间写出最漂亮的广告推广文案呢？今天就向你推荐一个写作框架。
-  - 点击【Read More】，了解更多详情。
+  - 点击【ReadMore】，了解更多详情。
 
 keywords:
 ---
