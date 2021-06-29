@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /*.html$
+Allow: /archives/*.html$
+Allow: /weekly/*.html$
+Allow: /things/*.html$
+Allow: /wiki/*.html$
+Allow: /categories/*/*.html$
+Allow: /about/*.html$
+
+Disallow: /page/
+Disallow: /tags/
+Disallow: /vendors/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
